@@ -1,6 +1,6 @@
 <div align="center">
 
-# AKSHAY DALVI
+# HI, THIS IS AKSHAY DALVI
 
 ### Software Developer · Java · Full-Stack · GenAI
 
@@ -8,9 +8,7 @@
 
 <br>
 
-<a href="https://github.com/AkshayDalvi4206">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+
 <a href="https://linkedin.com/in/akshay-dalvi-4206m">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -26,7 +24,7 @@
 
 ---
 
-## `whoami`
+## `WHO AM I`
 
 I'm a **final-year Computer Engineering student** at **PVG's College of Engineering, Nashik**, focused on building practical software rather than collecting tutorials.
 
@@ -74,71 +72,35 @@ The goal is to bring multiple layers of software analysis together and turn them
 
 ---
 
-### 🔄 Collabrix
-
-A full-stack collaboration platform built to explore how real applications handle **authentication, APIs, users and persistent data**.
-
-**Stack**
-
-`Node.js` · `Express.js` · `MySQL` · `JWT`
-
----
-
-### 🎓 AMS-TTS
-
-An **Attendance Management System** developed during my internship at **TechnoKraft Training & Solutions**.
-
-This project gave me practical experience working with a structured application involving backend logic, database integration and frontend interaction.
-
-**Stack**
-
-`Java` · `Spring Boot` · `Thymeleaf` · `JavaScript` · `MySQL`
-
-<a href="https://github.com/AkshayDalvi4206/AMS-TTS">→ View AMS-TTS</a>
-
----
-
-### ✍️ HandwriteAI
-
-An OCR-based project focused on extracting and processing handwritten content from documents.
-
-Built around document processing, OCR and AI-assisted analysis.
-
-**Stack**
-
-`Python` · `Flask` · `EasyOCR` · `Tesseract` · `PyMuPDF`
-
----
-
 ## 🛠️ My Stack
 
 ### Languages
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js&perline=8" alt="Languages"/>
 </p>
 
 ### Backend & Full-Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,html&perline=8" alt="Backend and Full Stack"/>
 </p>
 
 ### Databases & Cloud
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,vercel&perline=8" alt="Databases and Cloud"/>
 </p>
 
 ### AI / Data
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn&perline=8" alt="AI and Data"/>
 </p>
 
 ### Developer Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&perline=8" alt="Developer Tools"/>
 </p>
 
@@ -197,22 +159,6 @@ Making it better
 I enjoy projects where the interesting part isn't just **making something work** —
 
 it's figuring out **why it works, why it fails, and how to make it production-ready.**
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=AkshayDalvi4206&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkshayDalvi4206&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=AkshayDalvi4206&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
